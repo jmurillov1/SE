@@ -1,0 +1,11 @@
+Instrucciones - Uso Tarea 1
+
+Primo
+
+(printout t "Es primo : " (validarPrimo 7 2) crlf)
+Donde 7 es el numero a validar y el dos el numero de donde se quiere que empieze a dividir para determinar si es primo.
+
+Serie Fibonacci
+
+(printout t "Serie Fibonacci : " (serieFibonacci 0 4) crlf)
+Donde el cero es el inicio y 4 el numero de elementos de la serie.
