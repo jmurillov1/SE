@@ -1,0 +1,10 @@
+Como usar:
+
+Paso 1
+(load "Tarea_2.clp")
+Paso 2
+(reset)
+Paso 3
+(assert(v 3 4 1 2))
+Paso 4
+(run)
